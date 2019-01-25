@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Search xvideos",
+    "version": "1.0",
+    "description": "Search selected text in xvideos.com",
+    "author": "Wagner Santos",
+    "developer": {
+        "name": "Wagner Santos",
+        "url": "waglero.github.io"
+    },
+    "applications": {
+        "gecko": {
+          "id": "wagnerrdds@gmail.com"
+        }
+    },
+    "permissions": [
+        "menus",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [
+        {
+          "matches": ["*://*.*.*/*"]
+        }
+    ]
+}
