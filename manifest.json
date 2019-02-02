@@ -8,6 +8,9 @@
         "name": "Wagner Santos",
         "url": "waglero.github.io"
     },
+    "icons": {
+        "32": "icons/x.png"
+    },
     "applications": {
         "gecko": {
           "id": "wagnerrdds@gmail.com"
@@ -19,10 +22,5 @@
     ],
     "background": {
         "scripts": ["background.js"]
-    },
-    "content_scripts": [
-        {
-          "matches": ["*://*.*.*/*"]
-        }
-    ]
+    }
 }
