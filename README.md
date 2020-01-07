@@ -8,6 +8,6 @@ Search in xvideos the selected text, just like you do with google.
 
 # Installation
 
-Download the xpi file above and https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Distribution_options/Sideloading_add-ons#Using_Install_Add-on_From_File 
+Download the latest xpi file release and just open with firefox.
 
 Just for fun.
